@@ -5,12 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=nati673&label=Profile%20views&color=0e75b6&style=flat" alt="nati673" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=nati673" alt="nati673 trophies" />
-  </a>
-</p>
-
 <br />
 
 ### 🌟 Who I am
