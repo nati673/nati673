@@ -17,7 +17,7 @@
 - 🌱 I’m currently deepening my skills in **Full‑Stack Software Development** (React Native, Node.js, React, databases, and cloud).
 - 👨‍💻 All of my projects are available at **[natnaelhailu.com](https://natnaelhailu.com/)**.
 - 💬 Ask me about **Web & Mobile Development**, SaaS, automation, or architecture.
-- 📫 Reach me at **natnaelhailu245@gmail.com**.
+- 📫 Reach me at **contact@natnaelhailu.com**.
 - 📄 Know more about my experience in **[my resume](https://natnaelhailu.com/#resume_section)**.
 
 <br />
@@ -126,7 +126,7 @@
 ### 🏁 Quick links
 - 🌐 Portfolio: **[natnaelhailu.com](https://natnaelhailu.com/)**
 - 📄 Resume: **[Resume section](https://natnaelhailu.com/#resume_section)**
-- 📧 Email: **[natnaelhailu245@gmail.com](mailto:natnaelhailu245@gmail.com)**
+- 📧 Email: **[contact@natnaelhailu.com](mailto:contact@natnaelhailu.com)**
 - ⚡ GitHub: **[github.com/nati673](https://github.com/nati673)**
 
 <br />
