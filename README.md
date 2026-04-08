@@ -22,11 +22,9 @@
 
 <br />
 
-### 📈 GitHub stats
+### 📈 GitHub Activity
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nati673&show_icons=true&theme=radical" alt="GitHub stats" />
-  &nbsp;&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nati673&layout=compact&theme=radical" alt="Top languages" />
+  <img src="https://streak-stats.demolab.com?user=nati673&theme=radical" alt="GitHub streak" />
 </p>
 
 <br />
