@@ -9,11 +9,12 @@
 
 ### 🌟 Who I am
 
-👨‍💻 I'm Natnael Hailu, a dedicated Full‑Stack Web Developer with a passion for self‑learning and turning innovative ideas into user‑friendly digital experiences.  
-🌱 I focus on building responsive, cross‑browser, and mobile‑friendly interfaces, and designing robust server‑side systems with React, Node.js, and modern web technologies.  
-💬 Ask me about React, Node.js, full‑stack architecture, or web‑development in Ethiopia.  
+👨‍💻 I'm Natnael Hailu, a dedicated Full‑Stack Web *and* Mobile App Developer with a passion for self‑learning and turning innovative ideas into user‑friendly digital experiences.  
+🌱 I focus on building responsive, cross‑browser, and mobile‑friendly interfaces, and designing robust server‑side systems with React, Node.js, React Native, and modern web technologies.  
+💬 Ask me about React Native mobile apps, React web apps, Node.js backends, or full‑stack development in Ethiopia.  
 📧 Reach me at [contact@natnaelhailu.com](mailto:contact@natnaelhailu.com).  
 🌐 See my experience and all projects at [natnaelhailu.com](https://natnaelhailu.com/).
+
 <br />
 
 ### 📈 GitHub Activity
