@@ -8,12 +8,12 @@
 <br />
 
 ### 🌟 Who I am
-- 👨‍💻 Full‑stack developer building **web & mobile apps** with React Native, Node.js, and relational / NoSQL databases.  
-- 🌱 Currently deepening my skills in **SaaS architecture, APIs, and real‑time systems**.  
-- 💬 Ask me about **React Native, backend architecture, DevOps basics, or tech in Ethiopia**.  
-- 📫 Reach me at **[contact@natnaelhailu.com](mailto:contact@natnaelhailu.com)**.  
-- 📄 See my experience in **[my resume](https://natnaelhailu.com/#resume_section)** and all projects at **[natnaelhailu.com](https://natnaelhailu.com/)**.  
 
+👨‍💻 I'm Natnael Hailu, a dedicated Full‑Stack Web Developer with a passion for self‑learning and turning innovative ideas into user‑friendly digital experiences.  
+🌱 I focus on building responsive, cross‑browser, and mobile‑friendly interfaces, and designing robust server‑side systems with React, Node.js, and modern web technologies.  
+💬 Ask me about React, Node.js, full‑stack architecture, or web‑development in Ethiopia.  
+📧 Reach me at [contact@natnaelhailu.com](mailto:contact@natnaelhailu.com).  
+🌐 See my experience and all projects at [natnaelhailu.com](https://natnaelhailu.com/).
 <br />
 
 ### 📈 GitHub Activity
