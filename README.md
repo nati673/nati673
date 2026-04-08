@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Natnael</h1>
-<h3 align="center">A passionate full‑stack developer from Ethiopia</h3>
+<h3 align="center">Full‑stack developer | React Native & Node.js | Ethiopia</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nati673&label=Profile%20views&color=0e75b6&style=flat" alt="nati673" />
@@ -7,130 +7,139 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=nati673" alt="nati673" />
+    <img src="https://github-profile-trophy.vercel.app/?username=nati673" alt="nati673 trophies" />
   </a>
 </p>
 
 <br />
 
-### 🌟 About me
-- 🌱 I’m currently deepening my skills in **Full‑Stack Software Development** (React Native, Node.js, React, databases, and cloud).
-- 👨‍💻 All of my projects are available at **[natnaelhailu.com](https://natnaelhailu.com/)**.
-- 💬 Ask me about **Web & Mobile Development**, SaaS, automation, or architecture.
-- 📫 Reach me at **contact@natnaelhailu.com**.
-- 📄 Know more about my experience in **[my resume](https://natnaelhailu.com/#resume_section)**.
+### 🌟 Who I am
+- 👨‍💻 Full‑stack developer building **web & mobile apps** with React Native, Node.js, and relational / NoSQL databases.  
+- 🌱 Currently deepening my skills in **SaaS architecture, APIs, and real‑time systems**.  
+- 💬 Ask me about **React Native, backend architecture, DevOps basics, or tech in Ethiopia**.  
+- 📫 Reach me at **[natnaelhailu245@gmail.com](mailto:natnaelhailu245@gmail.com)**.  
+- 📄 See my experience in **[my resume](https://natnaelhailu.com/#resume_section)** and all projects at **[natnaelhailu.com](https://natnaelhailu.com/)**.  
 
 <br />
 
-### 📈 GitHub Activity
+### 📈 GitHub activity (with extra services)
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nati673&show_icons=true&theme=radical" alt="GitHub-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nati673&show_icons=true&theme=radical" alt="@nati673 stats" />
   &nbsp;&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nati673&layout=compact&theme=radical" alt="Top languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nati673&layout=compact&theme=radical" alt="@nati673 top languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=nati673&theme=radical" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=nati673&theme=radical" alt="Streak stats" />
+</p>
+
+<!-- Optional: another fun stat widget from a different service -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api?username=nati673&theme=radical" alt="Summary card" />
 </p>
 
 <br />
 
-### 🧩 Tech stack & tools
+### 🧩 Tech stack badges (using shield.io)
 <p align="center">
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="35" height="35"/>
+  <a href="https://reactjs.org/">
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React" />
   </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="35" height="35"/>
+  <a href="https://reactnative.dev/">
+    <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React Native" />
   </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="35" height="35"/>
+  <a href="https://nodejs.org/">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="35" height="35"/>
+  <a href="https://www.mongodb.com/">
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="35" height="35"/>
+  <a href="https://www.mysql.com/">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="35" height="35"/>
+  <a href="https://firebase.google.com/">
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
   </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="35" height="35"/>
+  <a href="https://www.gitkraken.com/">
+    <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
   </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="35" height="35"/>
+  <a href="https://www.figma.com/">
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="35" height="35"/>
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="35" height="35"/>
+  <a href="https://aws.amazon.com/">
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://www.javascript.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="35" height="35"/>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   </a>
-  <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="35" height="35"/>
+  <a href="https://www.typescriptlang.org/">
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="35" height="35"/>
+  <a href="https://www.python.org/">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="35" height="35"/>
+  <a href="https://www.linux.org/">
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="35" height="35"/>
+  <a href="https://www.nginx.com/">
+    <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
   </a>
-  <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="35" height="35"/>
+  <a href="https://www.cypress.io/">
+    <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress" />
   </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="35" height="35"/>
-  </a>
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="35" height="35"/>
-  </a>
-  <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
-    <img src="https://www.chartjs.org/media/logo-title.svg" alt="Chart.js" width="35" height="35"/>
-  </a>
-  <a href="https://www.cypress.io" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="Cypress" width="35" height="35"/>
+  <a href="https://www.chartjs.org/">
+    <img src="https://img.shields.io/badge/Chart.js-F2803B?style=for-the-badge&logo=chart.js&logoColor=white" alt="Chart.js" />
   </a>
 </p>
+
+<br />
 
 ### 📡 Connect with me
 <p align="center">
   <a href="https://web.facebook.com/NatnaelHailu245" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>&nbsp;
   <a href="https://instagram.com/web_code5" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>&nbsp;
-  <a href="https://www.linkedin.com/in/natnael-hailu" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="LinkedIn" height="30" />
+  <a href="https://linkedin.com/in/natnael-hailu" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>&nbsp;
   <a href="https://x.com/ETH_base" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter / X" height="30" />
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" />
   </a>&nbsp;
   <a href="https://t.me/web_code5" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="Telegram" height="30" />
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
 </p>
 
 <br />
 
-### 🏁 Quick links
-- 🌐 Portfolio: **[natnaelhailu.com](https://natnaelhailu.com/)**
-- 📄 Resume: **[Resume section](https://natnaelhailu.com/#resume_section)**
-- 📧 Email: **[contact@natnaelhailu.com](mailto:contact@natnaelhailu.com)**
-- ⚡ GitHub: **[github.com/nati673](https://github.com/nati673)**
+### 🏁 Quick external links
+- 🌐 Portfolio: **[natnaelhailu.com](https://natnaelhailu.com/)**  
+- 📄 Resume: **[Resume section](https://natnaelhailu.com/#resume_section)**  
+- 📧 Email: **[natnaelhailu245@gmail.com](mailto:natnaelhailu245@gmail.com)**  
+- ⚡ GitHub: **[github.com/nati673](https://github.com/nati673)**  
+- 🏆 Coding profiles:
+  - [LeetCode](https://leetcode.com/your-handle)  
+  - [Codeforces](https://codeforces.com/profile/your-handle)  
 
 <br />
 
-<p align="center">
-  <img src="https://github.com/nati673/nati673/blob/main/banner.png?raw=true" alt="Custom banner" width="700" />
-</p>
+### 🎉 Fun extras (optional)
+You can sprinkle in more from external services:
+- **Random quote** using a quote API (e.g., `https://api.quotable.io/random`).  
+- **ASCII‑art banner** generator (there are many online tools) placed as text or a small image.  
+- **GitHub profile generator tools** like [GPRM](https://gprm.itsvg.in) or [GitHubProfile.com](https://githubprofile.com/templates) to auto‑generate a layout and then tweak it by hand. [web:13][web:18][web:16]  
+
+---
+
+This version:
+- Uses **GitHub‑readme‑stats**, **streak‑stats**, and **README‑summary cards** from different services.  
+- Pulls **badges** from **shields.io** for a modern, uniform look.  
+- Lets you optionally wire in **LeetCode/Codeforces** or other profiles for a “coding handles” feel. [web:12][web:17]  
+
+If you tell me whether you prefer **dark‑mode** or **light‑mode‑style stats**, I can recolor the theme values (`theme=radical` → `theme=tokyonight`, `onedark`, etc.) and give you a matching palette.
