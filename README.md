@@ -17,30 +17,21 @@
 - 👨‍💻 Full‑stack developer building **web & mobile apps** with React Native, Node.js, and relational / NoSQL databases.  
 - 🌱 Currently deepening my skills in **SaaS architecture, APIs, and real‑time systems**.  
 - 💬 Ask me about **React Native, backend architecture, DevOps basics, or tech in Ethiopia**.  
-- 📫 Reach me at **[natnaelhailu245@gmail.com](mailto:natnaelhailu245@gmail.com)**.  
+- 📫 Reach me at **[contact@natnaelhailu.com](mailto:contact@natnaelhailu.com)**.  
 - 📄 See my experience in **[my resume](https://natnaelhailu.com/#resume_section)** and all projects at **[natnaelhailu.com](https://natnaelhailu.com/)**.  
 
 <br />
 
-### 📈 GitHub activity (with extra services)
+### 📈 GitHub stats
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nati673&show_icons=true&theme=radical" alt="@nati673 stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nati673&show_icons=true&theme=radical" alt="GitHub stats" />
   &nbsp;&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nati673&layout=compact&theme=radical" alt="@nati673 top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=nati673&theme=radical" alt="Streak stats" />
-</p>
-
-<!-- Optional: another fun stat widget from a different service -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api?username=nati673&theme=radical" alt="Summary card" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nati673&layout=compact&theme=radical" alt="Top languages" />
 </p>
 
 <br />
 
-### 🧩 Tech stack badges (using shield.io)
+### 🧩 Tech stack badges
 <p align="center">
   <a href="https://reactjs.org/">
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React" />
@@ -97,49 +88,29 @@
 
 <br />
 
-### 📡 Connect with me
+### 📡 Let’s connect
 <p align="center">
-  <a href="https://web.facebook.com/NatnaelHailu245" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>&nbsp;
-  <a href="https://instagram.com/web_code5" target="_blank">
+  <a href="https://www.instagram.com/web_code5/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>&nbsp;
-  <a href="https://linkedin.com/in/natnael-hailu" target="_blank">
+  <a href="https://t.me/coder524" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>&nbsp;
+  <a href="https://www.linkedin.com/in/natnael-hailu-320815268/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>&nbsp;
-  <a href="https://x.com/ETH_base" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" />
+  <a href="https://www.upwork.com/freelancers/natnaelh" target="_blank">
+    <img src="https://img.shields.io/badge/Upwork-000000?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" />
   </a>&nbsp;
-  <a href="https://t.me/web_code5" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  <a href="https://natnaelhailu.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=webflow&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
 <br />
 
-### 🏁 Quick external links
+### 📨 Quick contact links
+- 📧 Email: **[contact@natnaelhailu.com](mailto:contact@natnaelhailu.com)**  
 - 🌐 Portfolio: **[natnaelhailu.com](https://natnaelhailu.com/)**  
 - 📄 Resume: **[Resume section](https://natnaelhailu.com/#resume_section)**  
-- 📧 Email: **[natnaelhailu245@gmail.com](mailto:natnaelhailu245@gmail.com)**  
 - ⚡ GitHub: **[github.com/nati673](https://github.com/nati673)**  
-- 🏆 Coding profiles:
-  - [LeetCode](https://leetcode.com/your-handle)  
-  - [Codeforces](https://codeforces.com/profile/your-handle)  
-
-<br />
-
-### 🎉 Fun extras (optional)
-You can sprinkle in more from external services:
-- **Random quote** using a quote API (e.g., `https://api.quotable.io/random`).  
-- **ASCII‑art banner** generator (there are many online tools) placed as text or a small image.  
-- **GitHub profile generator tools** like [GPRM](https://gprm.itsvg.in) or [GitHubProfile.com](https://githubprofile.com/templates) to auto‑generate a layout and then tweak it by hand. [web:13][web:18][web:16]  
-
----
-
-This version:
-- Uses **GitHub‑readme‑stats**, **streak‑stats**, and **README‑summary cards** from different services.  
-- Pulls **badges** from **shields.io** for a modern, uniform look.  
-- Lets you optionally wire in **LeetCode/Codeforces** or other profiles for a “coding handles” feel. [web:12][web:17]  
-
-If you tell me whether you prefer **dark‑mode** or **light‑mode‑style stats**, I can recolor the theme values (`theme=radical` → `theme=tokyonight`, `onedark`, etc.) and give you a matching palette.
