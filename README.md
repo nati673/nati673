@@ -17,11 +17,27 @@
 
 <br />
 
-### 📈 GitHub Activity
+### 📊 GitHub Activity Overview
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=nati673&theme=radical" alt="GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nati673&show_icons=true&theme=radical&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=nati673&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nati673&theme=react-dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nati673&theme=radical&no-frame=true&row=1&column=7" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nati673&layout=compact&theme=radical&hide_border=true" />
+</p>
 <br />
 
 ### 🧩 Tech stack badges
