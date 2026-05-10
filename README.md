@@ -18,34 +18,18 @@
 <br />
 
 ### 📊 GitHub Activity Overview
+<p align="center">
+  <img height="180" src="https://streak-stats.demolab.com?user=nati673&theme=radical&hide_border=true" />
+  &nbsp;&nbsp;
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=nati673&show_icons=true&theme=radical&hide_border=true" />
+</p>
 
 <p align="center">
-  <a href="https://github-readme-stats-nati673.vercel.app/api?username=nati673&show=reviews,prs_merged_percentage&show_icons=true&theme=radical">
-    <img height=200 align="center" src="https://github-readme-stats-nati673.vercel.app/api?username=nati673&show=reviews,prs_merged_percentage&show_icons=true&theme=radical" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github-readme-stats-nati673.vercel.app/api/top-langs/?username=nati673&theme=radical&layout=compact&langs_count=10&card_width=250">
-    <img height=200 align="center" src="https://github-readme-stats-nati673.vercel.app/api/top-langs/?username=nati673&theme=radical&layout=compact&langs_count=10&card_width=250" />
-  </a>
-  <br/><br/>
-  <a href="https://github-readme-streak-stats-nati673.vercel.app?user=nati673&theme=radical&exclude_days=Sun&short_numbers=true">
-    <img align="center" src="https://github-readme-streak-stats-nati673.vercel.app?user=nati673&theme=radical&exclude_days=Sun&short_numbers=true&card_width=400" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github-readme-streak-stats-nati673.vercel.app?user=nati673&theme=radical&exclude_days=Sun&short_numbers=true&mode=weekly">
-    <img align="center" src="https://github-readme-streak-stats-nati673.vercel.app?user=nati673&theme=radical&exclude_days=Sun&short_numbers=true&mode=weekly&card_width=400" />
-  </a>
-  <br/><br/>
-  <a href="https://github-readme-activity-graph-nati673.vercel.app/graph?username=nati673&theme=react-dark&bg_color=141321&line=99E5E0&title_color=D83B7D&point=D83B7D&hide_border=true&days=10&custom_title=nati673's%20Active%20Brainwash%20Activity%20Graph">
-    <img src="https://github-readme-activity-graph-nati673.vercel.app/graph?username=nati673&theme=react-dark&bg_color=141321&line=99E5E0&title_color=D83B7D&point=D83B7D&hide_border=true&days=10&custom_title=nati673's%20Active%20Brainwash%20Activity%20Graph" width="100%"/>
-  </a>
-  <br/><br/>
-  <a href="https://stackoverflow.com/users/11783181/nati673">
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&width=620&lines=My+Stats+on+Knowledge+shared+after+abducting+people" align="center" alt="Typing SVG" />
-    </a>
-    <img src="https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/11783181" width="100%" align="center"/>
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=nati673&theme=radical&no-frame=true&row=1&column=7" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nati673&theme=react-dark&hide_border=true" />
 </p>
 <br />
 
